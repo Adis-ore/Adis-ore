@@ -5,14 +5,9 @@
 
 ---
 
-```
-              ✈
-        .  '  |  '  .
-     ─────────●─────────      Physics × Code × Energy × Aerodynamics
-        '  .  |  .  '
-              ▼
-   H|ψ⟩ = E|ψ⟩      F = ma      L = ½ρv²SCL
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:BC8CFF&height=200&section=header&text=Physics%20%C3%97%20Code%20%C3%97%20Energy%20%C3%97%20Aerodynamics&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Physics x Code x Energy x Aerodynamics" width="100%" />
+
+`H|ψ⟩ = E|ψ⟩`  ·  `F = ma`  ·  `L = ½ρv²S·C_L`
 
 *Physics explains how energy moves and how things fly. Code makes it useful.*
 
@@ -133,8 +128,6 @@ Aviation is where physics takes flight. I'm interested in **aerodynamics**, the 
 </picture>
 
 </div>
-
-> The snake needs a GitHub Actions workflow to generate it. Delete this section if you don't want it.
 
 ---
 
